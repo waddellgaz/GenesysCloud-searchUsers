@@ -21,7 +21,7 @@ client.loginClientCredentialsGrant(clientId, clientSecret)
     var queryBody = {
       "query": [
         {
-          "value": "gary.waddell@sabiogroup.com",
+          "value": "first.last@somecompany.com",
           "fields": [
             "addresses.email"
           ],
